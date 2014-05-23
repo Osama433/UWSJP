@@ -1,10 +1,12 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
-
+<style type="text/css">
+ </style>
 <!DOCTYPE html>
 <html lang="en">
+   
 <head runat="server">
     <meta charset="utf-8" />
-    <title><%: Page.Title %> - Students for Justice in Pakistan </title>
+    <title><%: Page.Title %> - UW Students for Justice in Pakistan </title>
     <asp:PlaceHolder runat="server">      
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
@@ -39,7 +41,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <a runat="server" href="~/">Students for Justice in Pakistan</a></p>
+                    <a runat="server" href="~/">UW Students for Justice in Pakistan</a></p>
             </div>
             <div class="float-right">
                 <section id="login">
@@ -63,6 +65,7 @@
                 <nav>
                     <ul id="menu">
                         <li><a runat="server" href="~/">Home</a></li>
+                        <li><a runat="server" href="Events/Event9.aspx">Gallery</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Event">Events</a></li>
                         <li><a runat="server" href="~/Donate">Donate</a></li>

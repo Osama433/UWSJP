@@ -10,6 +10,11 @@
     <section class="contact">
     <p> 
         Visit our Facebook page <a href="https://www.facebook.com/groups/283691575020746/" title="UW Students for Justice in Pakistan">UW Students for Justice in Pakistan</a> or email us at <a href="mailto:uw.sfjp@gmail.com" title="uw.sfjp@gmail.com">uw.sfjp@gmail.com</a>.
+    <br /><br />We are operating within FEDs guidelines from the University of Waterloo.
+     <br />
+200 University Avenue West<br />
+Waterloo, ON, Canada  N2L 3G1<br />
++1 519 888 4567 
     </p>
 
     </section>

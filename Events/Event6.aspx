@@ -5,9 +5,29 @@
 	<script type="text/javascript" src="engine1/jquery.js"></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" Runat="Server">
+    <article>
     <h2>
         <center>University of Waterloo Against Sectarianism Booth March 15th, 2013</center>  
     </h2>
+    </article>
+  <aside>
+        <h3>Event Galleries</h3>
+        <p>        
+           
+        </p>
+        <ul>
+            <li><a href="Event9.aspx"" title="Event Gallery">Event 9</a></li>
+            <li><a href="Event8.aspx"" title="Event Gallery">Event 8</a></li>
+            <li><a href="Event7.aspx"" title="Event Gallery">Event 7</a></li>
+            <li><a href="PeaceConference.aspx"" title="Event Gallery">Peace Conference</a></li>
+            <li><a href="Event5.aspx"" title="Event Gallery">Event 5</a></li>
+            <li><a href="Event4.aspx"" title="Event Gallery">Event 4</a></li>
+            <li><a href="Event3.aspx"" title="Event Gallery">Event 3</a></li>
+            <li><a href="Event2.aspx"" title="Event Gallery">Event 2</a></li>
+            <li><a href="Event1.aspx"" title="Event Gallery">Event 1</a></li>
+        </ul>
+    </aside>
+    <article>
   <div id="wowslider-container1">
 	<div class="ws_images"><ul>
 <li><img src="data1/images/208718_114072032117235_471750027_n.jpg" alt="" title="" id="wows1_0"/></li>
@@ -38,6 +58,7 @@
 <span class="wsl"><a href="http://wowslider.com">Javascript Banner Slideshow</a> by WOWSlider.com v4.8</span>
 	<div class="ws_shadow"></div>
 	</div>
+        </article>
 	<script type="text/javascript" src="engine1/wowslider.js"></script>
 	<script type="text/javascript" src="engine1/script.js"></script>
 </asp:Content>
